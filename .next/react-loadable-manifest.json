@@ -1,0 +1,8 @@
+{
+  "index.js -> @/components/BlogsView/BlogNewView": {
+    "id": "index.js -> @/components/BlogsView/BlogNewView",
+    "files": [
+      "static/chunks/components_BlogsView_BlogNewView_js.js"
+    ]
+  }
+}
