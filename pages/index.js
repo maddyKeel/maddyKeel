@@ -146,14 +146,14 @@ const HomeView = ({ blogsList }) => {
                                 </div>
                                 <div className='rightPrsCont'>
                                     <div className='verticalImg'>
-                                        <img className='img-fluid' src='/assets-optimized/home/home-process-1.webp' loading="lazy" />
+                                        <img className='img-fluid' src='/assets-optimized/home-process-1.webp' loading="lazy" />
                                     </div>
                                 </div>
                             </div>
                             <div className='inrScrollBox reverseMobile'>
                                 <div className='rightPrsCont'>
                                     <div className='verticalImg'>
-                                        <img className='img-fluid' src='/assets-optimized/home/home-process-2.webp' loading="lazy" />
+                                        <img className='img-fluid' src='/assets-optimized/home-process-2.webp' loading="lazy" />
                                     </div>
                                 </div>
                                 <div className='leftprsCont'>
@@ -178,14 +178,14 @@ const HomeView = ({ blogsList }) => {
                                 </div>
                                 <div className='rightPrsCont'>
                                     <div className='verticalImg'>
-                                        <img className='img-fluid' src='/assets-optimized/home/home-process-3.webp' loading="lazy" />
+                                        <img className='img-fluid' src='/assets-optimized/home-process-3.webp' loading="lazy" />
                                     </div>
                                 </div>
                             </div>
                             <div className='inrScrollBox reverseMobile'>
                                 <div className='rightPrsCont'>
                                     <div className='verticalImg'>
-                                        <img className='img-fluid' src='/assets-optimized/home/home-process-4.webp' loading="lazy" />
+                                        <img className='img-fluid' src='/assets-optimized/home-process-4.webp' loading="lazy" />
                                     </div>
                                 </div>
                                 <div className='leftprsCont'>
