@@ -159,7 +159,7 @@ const HomeView = ({ blogsList }) => {
                                 <div className='leftprsCont'>
                                     <div className="processStepGrid">
                                         <div className="prcStpIn">
-                                            <span className="stepNum">Step 2</span>
+                                            <span className="stepNum">Step 2,</span>
                                             <h5>Career guidance from the top 1%</h5>
                                             <p>Get mentored by leading industry experts from companies like Uber, Microsoft, Deloitte</p>
                                         </div>
